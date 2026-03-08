@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "This Voice",
+  "base_artist": "Pxrge Trxxxper",
+  "createdAt": "2026-03-08T06:11:53.251600Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Voice - Live From Cirkus Arena, Sweden/2013",
+      "artist": "Ane Brun",
+      "has_synced": false,
+      "path": "select/01_This_Voice_-_Live_From_Cirkus_Arena,_Sweden_2013_Ane_Brun.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Voice - Live",
+      "artist": "Ane Brun",
+      "has_synced": false,
+      "path": "select/02_This_Voice_-_Live_Ane_Brun.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What Is This Voice?",
+      "artist": "Xenia Rubinos",
+      "has_synced": true,
+      "path": "select/03_What_Is_This_Voice_Xenia_Rubinos.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Voice",
+      "artist": "Ane Brun",
+      "has_synced": true,
+      "path": "select/04_This_Voice_Ane_Brun.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Voice (2013)",
+      "artist": "Ane Brun",
+      "has_synced": true,
+      "path": "select/05_This_Voice_(2013)_Ane_Brun.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This voice",
+      "artist": "My",
+      "has_synced": false,
+      "path": "select/06_This_voice_My.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Voice Inside",
+      "artist": "Neverland",
+      "has_synced": false,
+      "path": "select/07_This_Voice_Inside_Neverland.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ane Brun / This Voice",
+      "artist": "Ane Brun",
+      "has_synced": false,
+      "path": "select/08_Ane_Brun___This_Voice_Ane_Brun.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Voice",
+      "artist": "Pxrge Trxxxper",
+      "has_synced": false,
+      "path": "select/pl_01_This_Voice_Pxrge_Trxxxper.txt"
+    }
+  ]
+}
